@@ -23,4 +23,12 @@ There is also a Star Schema Model. The necessary relationships were connected.
 
 Column names were cleaned up and removed if no longer needed.
 
+The Executive Summary page shows various features.
+There are cards showing data such as total customers and total revenue.
+There is a bare chart showing total revenue by department.
+A donut chart shows the nationality of customers.
+A table displays the top 20 customers and how much they have spent.
+A line chart shows the amount of customers per year, with a drill down feature and future projection.
+A date slicer allows the user to filter data by date.
+
 Measures.png contains a screenshot of all of the measures created in the measures table, including Total Profit, Unique Customers and Revenue YTD.
