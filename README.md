@@ -38,5 +38,12 @@ Donut charts display the proportion of store nations and store types.
 A horizontal bar chart shows the number of orders by category.
 KPIs show performance based on a 5% growth target.
 
+The Product Detail page highlights the best selling products.
+There are three gauges showing the difference between the performance of this quarter compared to a target 10% greater.
+There is an area chart showing the revenue of every shopping category over time.
+A table shows the top ten best selling products.
+A scatter graph compares the quantities sold against profit made.
+A slicer toolbar has been created to filter data by country and product category in a pop up window. Buttons open and close the pop up with bookmarks.
+
 
 Measures.png contains a screenshot of all of the measures created in the measures table, including Total Profit, Unique Customers and Revenue YTD.
