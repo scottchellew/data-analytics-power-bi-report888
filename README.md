@@ -45,5 +45,9 @@ A table shows the top ten best selling products.
 A scatter graph compares the quantities sold against profit made.
 A slicer toolbar has been created to filter data by country and product category in a pop up window. Buttons open and close the pop up with bookmarks.
 
+The Stores Map presents a large map with bubbles indicating each store. Hovering over the bubble shows the Stores Tooltip page which is a gauge that shows the YTD profit and target for a store.
+
+The Stores Drillthrough page shows extra information about a store.
+There is a card showing the stores' name. A table shows the top 5 bestselling products. Two gauges show the profit YTD and revenue YTD, against a target.
 
 Measures.png contains a screenshot of all of the measures created in the measures table, including Total Profit, Unique Customers and Revenue YTD.
