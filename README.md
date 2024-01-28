@@ -50,4 +50,8 @@ The Stores Map presents a large map with bubbles indicating each store. Hovering
 The Stores Drillthrough page shows extra information about a store.
 There is a card showing the stores' name. A table shows the top 5 bestselling products. Two gauges show the profit YTD and revenue YTD, against a target.
 
-Measures.png contains a screenshot of all of the measures created in the measures table, including Total Profit, Unique Customers and Revenue YTD.
+Cross filtering has been tidied up so that some visuals do not filter other visuals on the page.
+
+A navigation bar is installed on to the side of each page, allowing the user to click from one page to another.
+
+Measures.md contains all of the measures created in the measures table, including Total Profit, Unique Customers and Revenue YTD.
