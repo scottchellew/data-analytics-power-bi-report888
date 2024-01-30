@@ -55,3 +55,7 @@ Cross filtering has been tidied up so that some visuals do not filter other visu
 A navigation bar is installed on to the side of each page, allowing the user to click from one page to another.
 
 Measures.md contains all of the measures created in the measures table, including Total Profit, Unique Customers and Revenue YTD.
+
+The order_db contains a collection of .csv files that show the column names of every table.
+
+The questions folder contains .sql and .csv files that contain the answers to Milestone 10, Task 3.
